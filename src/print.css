@@ -1,0 +1,1 @@
+@media print{body{background:white;color:black}header,nav,button,.intro-line,.progress-text,progress,.reset-confirm{display:none!important}main{border:0;margin:0;padding:0;max-width:none}h1{font-size:22pt}.result{break-inside:avoid}tr{break-inside:avoid}footer{font-size:10pt}.hint{color:#333}a{color:black}table{font-size:11pt}}
